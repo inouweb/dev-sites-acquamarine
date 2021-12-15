@@ -20,7 +20,7 @@
         "display5Font": "Jost",
         "display5Size": "1.8",
         "display7Font": "Jost",
-        "display7Size": "1",
+        "display7Size": "0.9",
         "display4Font": "Jost",
         "display4Size": "1",
         "isRoundedButtons": true,
@@ -865,7 +865,7 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".item-title": {
               "text-align": "center"
